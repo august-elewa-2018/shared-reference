@@ -1,0 +1,302 @@
+Futher classifications to keep in mind
+- core vs detail
+	do you need to memorize this thing?
+	is this tool/concept/skill/resource core to your professional competence
+	or is it ok if you have to look it up every time
+- component vs whole
+	is this a whole skill, or necessary for the whole skill?
+	or is it just a small but helpful piece along the way
+- learning vs performance
+	is this a thing you'd do to "get shit done"
+	or a thing you do to learn and improve
+
+Categories:
+	JS notional machine:
+	- the types of thing your would draw or trace-block
+	- anything necessary for a practical understanding of how JS works
+	- not using JS, that falls under programming
+	HTML/CSS:
+	- syntax, tools & tricks for using HTML, CSS
+	- websites before they are started, the raw code
+	DOM:
+	- the machine that handles what happens after websites start
+	- document.(...)
+	- also used in JS code files
+	- (more on this when we learn async)
+	application architecture:
+	- big picture planning of applications, not touching code
+	- how will be concerns be separated
+	- how will data and logic flow across the app
+	workflow & dev tools:
+	- anything you do while programming that doesn't directly include code
+	study techniques:
+	- things you do to learn, study or practice that doesn't directly contribute to the final product
+	programming:
+	- writing, understanding and manipulating files of code
+	- producing and working on final products
+sub-categories:
+	skill:
+	- a thing you can do on demand
+	- it can be using a tool, following a procedure, creating a certain thing, ...
+	tools:
+	- a thing you use to get your work done
+	- using these tools effectively is a skill, but the tool itself just exists
+	concepts:
+	- things you need to understand, but that can't really "be done"
+	- skills are often the practical application of a concept
+	- ie. "closure" is a concept about the JS machine, using it for a configurable module is a skill
+	resources:
+	- anything you would use to learn or refresh a skill, tool, or concept.
+	- good stack-overflow answers, well-written code examples, ...
+
+
+Syntax
+- .skills
+
+Node
+- js-nm.tools
+
+Lodash
+- prog. tools
+
+variables
+- js-nm.conc
+
+let vs var
+- js conc
+
+modularity
+- prog.skill
+- arch.conc
+
+protoypes
+- js-nm.conc
+
+closure
+- js-nm.conc
+- prog.conc
+- prog.skill
+
+garbage collection
+- js-nm.conc
+
+object
+- js-nm.conc
+
+arrays
+- js-nm.conc
+
+statement
+- js-nm.conc
+
+expressions
+- js-nm.conc
+
+types
+- js-nm.conc
+
+primitives
+- js-nm.conc
+
+scope, b&s
+- js-nm.conc
+
+hoisting
+- js-nm.conc
+
+tdz
+- js-nm.conc
+
+operators
+- js-nm.conc
+
+precedence
+- js-nm.conc
+
+behavior
+- js-nm.conc
+- apdes.conc
+- prog.skill
+
+parsing
+- js-nm.conc
+
+phases
+- js-nm.conc
+
+input/output
+- js-nm.conc
+- apdes.conc
+
+engines
+- js-nm.conc
+
+state
+- js-nm.conc
+- apdes.conc
+
+memory
+- js-nm.conc
+
+modules
+- js-nm.res
+
+expansions
+- js-nm.res
+- js-nm.skill
+- stud.skill
+- prog.res
+
+snippet studies
+- js-nm.res
+- stud.skill
+
+diagramming
+- js-nm.skill
+- stud.skill
+
+events
+- dom.tools
+
+objects
+- dom.tools
+
+handler
+- apdes.skill
+
+sep of conc
+- apdes.skill
+- prog.conc
+
+persp: user, dev
+- apdes.skill
+
+maintainability
+- apdes.skill
+- prog.skill
+
+readability
+- apdes.skill
+- prog.skill
+
+pure functions
+- apdes.conc
+- prog.skill
+- prog.tool
+
+chromedev
+- dwf.tools
+
+inspecting
+- dwf.skill
+- prog.skill
+
+terminal
+- dwf.tool
+
+git/hub
+- dwf.tool
+
+vs-code
+- dwf.tool
+
+frameworks
+- apdes.conc
+- prog.tools
+
+refactoring
+- stud.skill
+- prog.skill
+
+trace-blocking
+- stud.skill
+
+repl.it
+- stud.tools
+
+pytut
+- stud.tools
+
+md
+- stud.tool
+
+solo
+- stud.conc
+- stud.conc
+
+creating exercises
+- stud.skill
+- stud.res
+
+cli
+- dwf.tool
+- prog.skill
+
+lodash
+- prog.skill
+- stud.resource
+- prog.tools
+
+naming
+- prog.skill
+
+comments
+- prog.skill
+- js-nm.conc
+- html/css.conc
+
+dry
+- prog.skill
+
+programming paradigms
+- prog.skill
+- apdes.conc
+- prog.conc
+
+libraries
+- prog.tools
+
+string
+- prog.conc
+
+operators
+- prog.tool
+- prog.conc
+
+loops
+- prog.conc
+
+values
+- prog.conce
+
+inheritance
+- jsjs-nm.conc
+- prog.conc
+
+casting
+- jsjs-nm.conc
+- prog.conc
+
+data-flow
+- prog.conc
+- apdes.skill
+
+prop & methods
+- jsjs-nm.conc
+- prog.conc
+
+dependencies
+- prog.resource
+
+
+
+
+
+
+
+
+
+
+
+
+
